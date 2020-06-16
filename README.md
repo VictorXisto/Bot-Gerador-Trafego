@@ -1,3 +1,5 @@
+#Bot gerador de tráfego para site e blogs
+
 Este é um script python simples, criado por mim, para demonstrar como é fácil gerar tráfego para site e blogs para melhorar seu ranking do Google e fazer outro SEO preto.
 
 O uso do Tor Addon no navegador padrão é essencial para fazer valer os cliques nos links. Dessa forma, o endereço IP continua mudando a cada nova solicitação, enganando o servidor da Web de que essas solicitações são de IPs diferentes.
