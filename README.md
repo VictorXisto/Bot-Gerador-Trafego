@@ -1,3 +1,5 @@
+![Bot_trafego_site_blog](https://user-images.githubusercontent.com/39013639/84734073-5ed15400-af76-11ea-89b7-b86a48b5e752.png)
+
 # Bot gerador de tráfego para site e blogs
 
 Este é um script python simples, criado por mim, para demonstrar como é fácil gerar tráfego para site e blogs para melhorar seu ranking do Google e fazer outro SEO preto.
